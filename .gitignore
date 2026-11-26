@@ -1,0 +1,22 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
